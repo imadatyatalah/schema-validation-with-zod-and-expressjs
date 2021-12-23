@@ -1,0 +1,16 @@
+{
+  "name": "schema-validation-with-zod-and-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "zod": "^3.11.6"
+  }
+}
